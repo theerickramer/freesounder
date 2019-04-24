@@ -1,0 +1,9 @@
+{
+  "name": "freesounder",
+  "version": "1.0.0",
+  "description": "a sampler using freesound.org",
+  "main": "index.js",
+  "repository": "git@github.com:theerickramer/freesounder.git",
+  "author": "Eric Kramer <theerickramer@gmail.com>",
+  "license": "MIT"
+}
